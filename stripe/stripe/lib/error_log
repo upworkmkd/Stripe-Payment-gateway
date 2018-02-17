@@ -1,0 +1,1 @@
+[07-Jan-2018 00:03:44 UTC] PHP Fatal error:  Class 'Stripe\SingletonApiResource' not found in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/stripe/lib/Balance.php on line 16

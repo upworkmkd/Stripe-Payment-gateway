@@ -1,0 +1,5 @@
+[12-Dec-2017 02:37:09 UTC] PHP Fatal error:  Class 'Stripe\Error\InvalidRequest' not found in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/stripe/lib/Error/RateLimit.php on line 6
+[16-Dec-2017 08:32:23 UTC] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/stripe/lib/Error/ApiConnection.php on line 6
+[16-Dec-2017 09:50:31 UTC] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/stripe/lib/Error/ApiConnection.php on line 6
+[22-Dec-2017 09:12:39 UTC] PHP Fatal error:  Class 'Stripe\Error\InvalidRequest' not found in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/stripe/lib/Error/RateLimit.php on line 6
+[06-Jan-2018 23:32:35 UTC] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home/wadeju5/public_html/wp-content/plugins/Builder_UX-master/vendor/stripe/lib/Error/Api.php on line 6
